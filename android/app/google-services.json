@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329605235414",
+    "project_id": "cancel-meals-checker",
+    "storage_bucket": "cancel-meals-checker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329605235414:android:5628fad4381362c4b97f77",
+        "android_client_info": {
+          "package_name": "com.example.cancel_meals_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329605235414-rtqtqhr8ei8okunmpse1d4oj4com6pqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi25ma29aAZHoohrSC6MuGbQWA5tv9nTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329605235414-rtqtqhr8ei8okunmpse1d4oj4com6pqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
